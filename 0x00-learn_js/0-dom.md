@@ -32,3 +32,7 @@
             * modify text using `innerText`
             * modify/manipuate attributes & classes using `setAttribute`, `removeAttribute`, `add` and `remove`
     * remove an element using `remove`
+* elements are a type of node
+    * `parentElement`, for example loooks for specific elements one level above
+    * `parentNode` looks for a node (a node can be anything) one level above
+* 
